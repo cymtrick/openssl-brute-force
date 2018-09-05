@@ -3,9 +3,13 @@
 
 Usage
 
+git clone https://github.com/cymtrick/openssl-brute-force.git
+
+cd openssl-brute-force
+
 ### With base 64
 
-./brute.sh /your/password/file/location encryped.key
+./brute-openssl.sh /your/password/file/location encryped.key
 
 ### Without base 64
 
