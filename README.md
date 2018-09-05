@@ -1,5 +1,6 @@
 # openssl-brute-force
 
+Open ssl brute force bash script for password encoded message 
 
 Usage
 
